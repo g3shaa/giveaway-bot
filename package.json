@@ -1,0 +1,20 @@
+{
+  "name": "discord-giveaway-bot",
+  "version": "2.2.1",
+  "description": "Giveaway Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/g3shaa/giveaway-bot"
+  },
+  "author": "https://github.com/g3shaa",
+  "license": "MIT",
+  "dependencies": {
+    "discord-giveaways": "^4.4.3",
+    "discord.js": "^12.5.3",
+    "ms": "^2.1.2"
+  }
+}
